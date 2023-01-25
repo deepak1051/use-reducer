@@ -40,3 +40,10 @@
 h1 {
   color: deeppink;
 }
+
+button {
+  color: teal;
+  background-color: white;
+  padding: 5px;
+  border: 1px solid teal;
+}
